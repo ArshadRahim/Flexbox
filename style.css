@@ -1,0 +1,220 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{ 
+    color: rgba(0, 255, 255, 0.226);
+    background: rgb(48, 20, 75);
+    border: 4px white solid;
+    height: 200px;
+    width: 250px;
+    flex: 1;
+    font-size: 3em;
+    color: white;
+    text-align: center;
+    overflow: hidden;
+}
+
+.sec{
+    display: flex;
+    justify-content: center;
+}
+.box2{
+    background: rgb(74, 33, 112);
+
+}
+.box3{
+    background: rgb(62, 48, 75);
+
+}
+.box4{
+    background: rgb(19, 30, 179);
+
+}
+.box5{
+    background: rgb(59, 5, 109);
+
+}
+.box6{
+    background: rgb(29, 109, 184);
+
+}
+.box7{
+    background: rgb(64, 128, 211);
+
+}
+.box8{
+    background: rgb(174, 128, 218);
+
+}
+.box9{
+    background: rgb(115, 0, 223);
+
+}
+.box10{
+    background: rgb(66, 8, 119);
+
+}
+.box11{
+    background: rgb(5, 34, 128);
+
+}
+.box12{
+    background: rgb(74, 33, 112);
+
+}
+.box13{
+    background: rgb(62, 48, 75);
+
+}
+.box14{
+    background: rgb(19, 30, 179);
+
+}
+.box15{
+    background: rgb(59, 5, 109);
+
+}
+.box16{
+    background: rgb(29, 109, 184);
+
+}
+.box17{
+    background: rgb(64, 128, 211);
+
+}
+.box18{
+    background: rgb(174, 128, 218);
+
+}
+.box19{
+    background: rgb(115, 0, 223);
+
+}
+
+.box20{
+    background: rgb(5, 34, 128);
+
+}
+/*dursa section*/
+progress{
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 100px; 
+}
+.dusrasec{
+    display: flex;
+    
+
+}
+
+.dusrabox{ 
+    color: rgba(0, 255, 255, 0.226);
+    background: rgb(48, 20, 75);
+    border: 4px rgb(250, 250, 250) solid;
+    height: 200px;
+    width: 250px;
+    flex: 1;
+    font-size: 3em;
+    color: white;
+    text-align: center;
+    justify-content: center; 
+    overflow: hidden;
+}
+.box2{
+    background: rgb(74, 33, 112);
+
+}
+.box3{
+    background: rgb(62, 48, 75);
+
+}
+.box4{
+    background: rgb(19, 30, 179);
+
+}
+.box5{
+    background: rgb(59, 5, 109);
+
+}
+.box6{
+    background: rgb(29, 109, 184);
+
+}
+.box7{
+    background: rgb(64, 128, 211);
+
+}
+.box8{
+    background: rgb(174, 128, 218);
+
+}
+.box9{
+    background: rgb(115, 0, 223);
+
+}
+.box10{
+    background: rgb(66, 8, 119);
+
+}
+.box11{
+    background: rgb(5, 34, 128);
+
+}
+.box12{
+    background: rgb(74, 33, 112);
+
+}
+.box13{
+    background: rgb(62, 48, 75);
+
+}
+.box14{
+    background: rgb(19, 30, 179);
+
+}
+.box15{
+    background: rgb(59, 5, 109);
+
+}
+.box16{
+    background: rgb(29, 109, 184);
+
+}
+.box17{
+    background: rgb(64, 128, 211);
+
+}
+.box18{
+    background: rgb(174, 128, 218);
+
+}
+.box19{
+    background: rgb(115, 0, 223);
+
+}
+
+.box20{
+    background: rgb(5, 34, 128);
+
+}
+
+.thirdsec{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+    
+}
+.box{
+    align-items: center;
+    overflow: hidden;
+    
+}
+progress{
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 100px; 
+}
